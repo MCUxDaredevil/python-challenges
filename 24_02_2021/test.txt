@@ -1,0 +1,4 @@
+green:5
+teal:1.green
+blue:2.teal|1.green
+red:1.blue|2.teal|1.green
